@@ -1,6 +1,7 @@
 body {
-    background-color: black;
+    background-color: rgb(21, 21, 21);
 }
 .Navbar {
     list-style: none;
+    background-color: rgb(39, 39, 39);
 }
